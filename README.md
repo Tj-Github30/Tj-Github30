@@ -23,8 +23,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
