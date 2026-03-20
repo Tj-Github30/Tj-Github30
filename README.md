@@ -93,7 +93,7 @@ A real-time live auction platform built using AWS, WebSockets, and microservices
 A full-stack task management platform with real-time collaboration, analytics, file uploads, and calendar integration.
 
 ### 🔹 NYC Transit
-🔗 [GitHub Repo](https://github.com/Tj-Github30/NYTransit)  
+🔗 [GitHub Repo](https://github.com/Tj-Github30/NYCTransitHub)  
 A realtime MTA train status web application for New York.
 
 ---
