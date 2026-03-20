@@ -23,8 +23,63 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css,bash,react,nodejs,django,flask,angular,aws,azure,gcp,jenkins,git,postman,tensorflow,sklearn,docker" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" />
+  </a>
+  <a href="https://angular.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=azure" height="50" alt="Azure" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="Google Cloud" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="Jenkins" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="Scikit-learn" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+  </a>
 </p>
 
 ---
