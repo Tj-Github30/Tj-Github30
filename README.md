@@ -10,7 +10,7 @@
 ---
 
 ## 👩‍💻 About Me
-
+Actively building software projects across cloud systems, backend engineering, and full-stack application development
 - 🎓 Master’s in Computer Science at **New York University**
 - 🌍 Based in **New York, USA**
 - 💼 Previously worked at **Amazon, Algosec, and Jivox**
