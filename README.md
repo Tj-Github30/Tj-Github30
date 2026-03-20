@@ -67,12 +67,17 @@ A realtime MTA train status web application for New York.
   <a href="mailto:tps7866@nyu.edu" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
+    <a href="https://leetcode.com/u/Tejaswini098/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50" alt="LeetCode" />
+  </a>
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tj-Github30/Tj-Github30/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tj-Github30/Tj-Github30/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tj-Github30/Tj-Github30/output/github-contribution-grid-snake-dark.svg" />
+</picture>
