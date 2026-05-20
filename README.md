@@ -13,7 +13,7 @@
 Actively building software projects across cloud systems, backend engineering, and full-stack application development
 - 🎓 Master’s in Computer Science at **New York University**
 - 🌍 Based in **New York, USA**
-- 💼 Previously worked at **Amazon, Algosec, and Jivox**
+- 💼 Previously worked at **Evu, Amazon, Algosec, and Jivox**
 - ☁️ Interested in **Software Engineering, Cloud Systems, Automation, Full-Stack Development, and Machine Learning**
 - 🚀 I enjoy building scalable applications, solving backend problems, and turning ideas into real products
 - 📫 Reach me at **tps7866@nyu.edu**
